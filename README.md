@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seye-d3a
 - 👀 I’m interested in learning how to code cause it is a profitable skill. i am new to this
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything. I need all the help I can get
 - 📫 How to reach me (ayomideogunseye@outlook.com)
 
