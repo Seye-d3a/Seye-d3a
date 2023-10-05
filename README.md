@@ -1,5 +1,5 @@
 - Hi, I’m Ayomide David Ogunseye 
-- I’m interested in learning how to code cause it is a profitable skill. 
+- I’m learning how to code cause it is a profitable skill. You can find some projects I've worked on here
 - I’m currently pursuing a degree in Computer Programming
 - I’m looking to collaborate on anything. 
 - 📫 How to reach me (ayomideogunseye@outlook.com)
