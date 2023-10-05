@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ogunseye David Ayomide
-- 👀 I’m interested in learning how to code cause it is a profitable skill. i am new to this
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything. I need all the help I can get
+- Hi, I’m Ayomide David Ogunseye 
+- I’m interested in learning how to code cause it is a profitable skill. 
+- I’m currently pursuing a degree in Computer Programming
+- I’m looking to collaborate on anything. 
 - 📫 How to reach me (ayomideogunseye@outlook.com)
 
 <!---
