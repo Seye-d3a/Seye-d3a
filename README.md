@@ -1,7 +1,6 @@
 - Hi, I’m Ayomide David Ogunseye 
 - I’m learning how to code cause it is a profitable skill. You can find some projects I've worked on here
-- I’m currently pursuing a degree in Computer Programming
-- I’m looking to collaborate on anything. 
+- I’m currently pursuing a degree in Computer Programming while sharpening my skills in JavaScript
 - 📫 How to reach me (ayomideogunseye@outlook.com)
 
 <!---
