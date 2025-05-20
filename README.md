@@ -1,7 +1,13 @@
-- Hi, I’m Ayomide David Ogunseye 
-- I’m learning how to code cause it is a profitable skill. You can find some projects I've worked on here
-- I’m currently pursuing a degree in Computer Programming while sharpening my skills in Python and gradually learning JavaScript
-- 📫 How to reach me (ayomideogunseye@outlook.com)
+- Hi, I’m Ayo
+- I have a degree in Computer Programming.
+- This is my repository of projects I've worked on
+- I am proficient in the following programming languages:
+-     Python
+-     C++
+-     Groovy (per ScriptRunner plugin on JIRA)
+- I am familiar with JavaScript and TypScript
+
+- 📫 How to reach me (aogunseye01@gmail.com)
 
 <!---
 Seye-d3a/Seye-d3a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
